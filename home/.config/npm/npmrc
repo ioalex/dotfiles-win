@@ -1,0 +1,5 @@
+cache=/home/alex/.cache/npm
+init.license=MIT
+init.author.name=Alex He
+init.author.email=alex@alexhe.io
+store-dir=/home/alex/.pnpm-store/v3

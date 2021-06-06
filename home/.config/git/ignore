@@ -1,0 +1,36 @@
+node_modules
+
+# Python stuff
+*.pyc
+VENV
+
+# Other version control stuff
+.hg
+.svn
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Log files
+*.log
+
+# IDEs stuff
+.idea
+.rubymine_helpers
+.vscode
+*.vscode
+
+# Temporary files
+*.kate-swp
+*.swp
+*.swo
+*~

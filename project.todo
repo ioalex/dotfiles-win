@@ -1,0 +1,9 @@
+- [] Add instructions for setting up a fresh install of Windows 10 Pro.
+- [] Add instructions for joining the Windows Insider Program for:
+  - Windows Package Manager (WinGet)
+  - PowerToys
+- [] Add instructions for installing Windows Subsystem for Linux 2.
+- [] Add instructions for installing WSLg to use Linux GUI applications on Windows.
+- [] Add instructions for setting up development environment.
+- [] Add script that adds programs to start up.
+- [] Add script that adds my Windows Task Scheduler automations.
